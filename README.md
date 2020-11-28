@@ -1,9 +1,9 @@
 # hw2
 class Deque:
 def __init__(self):
-self.items = []
+self.items(item)
 def isEmpty(self):
-return self.items == []
+self.items(item)
 def addFront(self, item):
 self.items.append(item)
 def addRear(self, item):
